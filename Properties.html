@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+    body {
+        background-color: whitesmoke;
+    }
+
+    #navbar {
+        font-size: large;
+        /* border: 1px solid black; */
+        padding-right: 10px;
+        display: flex;
+        justify-content: space-between;
+        justify-content: flex-end;
+    }
+    #navbar li{
+        cursor: pointer;
+        list-style-type: none;
+        padding: 10px;
+        float:left;
+    }
+    #navbar li:hover{
+        border-radius: 8px;
+        background-color: rgba(213, 181, 252, 0.219);
+    }
+    #navbar li a{
+        color: black;
+        text-decoration: none;
+    }
+    #navbar img{
+        position: fixed;
+        left: 0;
+        width:50px;
+        margin-left: 15px;
+        margin-top: 8px;
+    }
+    #container{
+        border:1px solid black;
+        margin-top: 80px;
+        margin-left: 35%;
+        height: 500px;
+        width: 500px;
+    }
+    .box{
+        /* background-color: rgb(248, 134, 134); */
+        width: 150px;
+        height: 150px;
+        border: 1px solid black;
+        margin: 1px;
+    }
+    #box2{
+        /* position: relative;
+        left: 23px;
+        bottom: 23px; */
+        /* position: absolute;
+        top: 83px;
+        left: 23px; */
+        
+    }
+    
+</style>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <header id="navbar">
+        <img src="G.png" alt="Couldn't load img">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Categories</a></li>
+            <li><a href="#">Contacts</a></li>
+            <li><i class="fa fa-shopping-cart" aria-hidden="true"></i></li>
+        </ul>
+    </header>
+    <main>
+        <div id="container">
+            <div class="box" id="box1">This is box 1</div>
+            <div class="box" id="box2">This is box 2</div>
+            <div class="box" id="box3">This is box 3</div>
+            
+        </div>
+    </main>
+</body>
+
+</html>
