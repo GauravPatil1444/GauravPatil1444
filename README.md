@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Web development<br>🎯 My goal is to learn and develop technologies for convenience of society.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Web development and Machine learning<br>🎯 My goal is to learn and develop technologies for convenience of society.</p>
 
 ###
 
