@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Web development and Machine learning<br>🎯 My goal is to learn and develop technologies for convenience of society.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm a Full-Stack  Developer and Machine learning enthusiast<br>🎯 My goal is to learn and develop technologies for convenience of society.</p>
 
 ###
 
-<h2 align="left">I code with various languages such as JAVA, Python, C, HTML CSS JavaScript, etc</h2>
+<h2 align="left">I code with various Technologies and Languages such as React native, React, JavaScript, Python, JAVA, C, HTML CSS, etc. and use cloud computing platform such as GCP</h2>
 
 ###
 
