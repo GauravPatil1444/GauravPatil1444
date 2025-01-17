@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm a Full-Stack  Developer and Machine learning enthusiast<br>🎯 My goal is to learn and develop technologies for convenience of society.</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm a Full-Stack  Developer, Artificial Intelligence & Machine learning enthusiast<br>🎯 My goal is to learn and develop technologies for convenience of society.</p>
 
 ###
 
