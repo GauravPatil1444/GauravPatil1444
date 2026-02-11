@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with various Technologies and Languages such as React native, React, TypeScript, JavaScript, Python, JAVA, C, HTML CSS, etc. and use GCP cloud services</h2>
+<h2 align="left">I code with various Technologies and Languages such as React native, React, TypeScript, JavaScript, Python, HTML CSS, etc. and use GCP cloud services</h2>
 
 ###
 
