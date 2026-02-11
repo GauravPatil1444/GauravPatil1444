@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">I am currently a T.Y. student at RCPIT, learning and developing my skills</h3>
+<h3 align="left">I am currently a final year student at RCPIT, learning and developing my skills</h3>
 
 ###
 
